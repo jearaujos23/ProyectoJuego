@@ -1,0 +1,6 @@
+Copia aqui los diagramas RAPTOR de la Fase 2:
+  DF1_partida.rap
+  DF2_validacion.rap
+  DF3_fin.rap
+Cuando los hayas subido, puedes borrar este archivo.
+Apura Joshua chuzo
