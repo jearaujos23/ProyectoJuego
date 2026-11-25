@@ -1,0 +1,1074 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MainWindowViewModel.Raptor_File xmlns="http://schemas.datacontract.org/2004/07/RAPTOR_Avalonia_MVVM.ViewModels" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:a="http://schemas.datacontract.org/2004/07/raptor" xmlns:b="http://www.w3.org/2001/XMLSchema" xmlns:c="http://schemas.microsoft.com/2003/10/Serialization/">
+  <FileGuid>2db0a086-b1f0-4a18-a16a-73ebbd3eaa95</FileGuid>
+  <subcharts>
+    <a:Subchart xmlns="">
+      <a:Start>
+        <_serialization_version i:type="b:int">17</_serialization_version>
+        <_FP i:type="a:Component.FootPrint">
+          <a:height>210</a:height>
+          <a:left>45</a:left>
+          <a:right>45</a:right>
+        </_FP>
+        <_text_str i:type="b:string">start</_text_str>
+        <_name i:type="b:string">Oval</_name>
+        <_proximity i:type="b:int">10</_proximity>
+        <_head_height i:type="b:int">60</_head_height>
+        <_head_width i:type="b:int">90</_head_width>
+        <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+        <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+        <_connector_length i:type="b:int">15</_connector_length>
+        <_x_location i:type="b:int">90</_x_location>
+        <_y_location i:type="b:int">30</_y_location>
+        <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"DF2 - MOVIMIENTO Y VALIDACION"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">175</_y_location>
+          <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Laberinto de prueba 25x21. Pared en 12,9."</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">250</_y_location>
+          <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">x:=12</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">325</_y_location>
+            <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">y:=10</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">400</_y_location>
+            <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">aceptado:=0</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">475</_y_location>
+            <_Successor i:type="a:Loop"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">aceptado=1</_text_str>
+                                                            <_name i:type="b:string">Loop</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">550</_y_location>
+                                                            <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Posicion resultante:"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2425</_y_location>
+          <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">x</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2500</_y_location>
+          <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">y</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2575</_y_location>
+          <_Successor i:type="a:Oval"><_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">end</_text_str>
+                                                            <_name i:type="b:string">Oval</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">2650</_y_location>
+                                                            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">40c95729-767e-45e8-95b4-208f91c33723</_created_guid>
+                                                            <_changed_guid i:type="c:guid">a26d9f44-0e3f-4705-81c5-531010ae5ea2</_changed_guid>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">c1337e96-6838-4acf-88d6-7244bcc28e01</_created_guid>
+          <_changed_guid i:type="c:guid">5351022b-6a50-4cc1-9cde-994142ed5bc5</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">23fa1fea-d1b0-436f-8e31-fbf190d05367</_created_guid>
+          <_changed_guid i:type="c:guid">fb19865b-b461-42ab-81bd-849e9171a6dc</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">01db6522-2fff-4d10-b6ef-d3199ef1a6c0</_created_guid>
+          <_changed_guid i:type="c:guid">9448ca14-4e7d-4ded-9813-dd577875f569</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">d8c5e5ca-fb47-4cf2-816c-5da796ece224</_created_guid>
+                                                            <_changed_guid i:type="c:guid">8457c855-89d9-4761-92ff-5f644540aeb7</_changed_guid>
+                                                            <_before_Child i:type="a:Parallelogram"><_prompt i:type="b:string">ID de participante conectado (1 a 5)</_prompt>
+          <_is_input i:type="b:boolean">true</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">jugador</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">625</_y_location>
+          <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">jugador&gt;=1 and jugador&lt;=5</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">700</_y_location>
+                                                            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">9b619fdb-4f28-4d95-bf01-79220d5cfe55</_created_guid>
+                                                            <_changed_guid i:type="c:guid">d767ee7e-abae-4c7f-9c75-5e31045dfa9f</_changed_guid>
+                                                            <_left_Child i:type="a:Parallelogram"><_prompt i:type="b:string">Direccion: 1 arriba, 2 abajo, 3 izquierda, 4 derecha</_prompt>
+          <_is_input i:type="b:boolean">true</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">direccion</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">775</_y_location>
+          <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">direccion&gt;=1 and direccion&lt;=4</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">850</_y_location>
+                                                            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">5928faa7-685c-4a15-b0d4-de33ac89ebd7</_created_guid>
+                                                            <_changed_guid i:type="c:guid">333e0ed4-bcb7-4007-86bd-59449a3a9d1a</_changed_guid>
+                                                            <_left_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">nx:=x</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">925</_y_location>
+            <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">ny:=y</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1000</_y_location>
+            <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">direccion=1</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1075</_y_location>
+                                                            <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">direccion=2</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1225</_y_location>
+                                                            <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">direccion=3</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1375</_y_location>
+                                                            <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">direccion=4</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1525</_y_location>
+                                                            <_Successor i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">nx&gt;=1 and nx&lt;=25 and ny&gt;=1 and ny&lt;=21</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1675</_y_location>
+                                                            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">50c7ca02-25f0-4559-9b97-02063e89d369</_created_guid>
+                                                            <_changed_guid i:type="c:guid">f95f883f-8b60-45e7-aad7-be2d53e8a0ae</_changed_guid>
+                                                            <_left_Child i:type="a:IF_Control"><_is_compressed i:type="b:boolean">false</_is_compressed>
+                                                            <_serialization_version i:type="b:int">17</_serialization_version>
+                                                            <_FP i:type="a:Component.FootPrint">
+                                                            <a:height>135</a:height>
+                                                            <a:left>45</a:left>
+                                                            <a:right>45</a:right>
+                                                            </_FP>
+                                                            <_text_str i:type="b:string">nx=12 and ny=9</_text_str>
+                                                            <_name i:type="b:string">IF_Control</_name>
+                                                            <_proximity i:type="b:int">10</_proximity>
+                                                            <_head_height i:type="b:int">60</_head_height>
+                                                            <_head_width i:type="b:int">90</_head_width>
+                                                            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+                                                            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+                                                            <_connector_length i:type="b:int">15</_connector_length>
+                                                            <_x_location i:type="b:int">90</_x_location>
+                                                            <_y_location i:type="b:int">1750</_y_location>
+                                                            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">01bc456a-aa7b-4c59-a83c-3d1da51d5344</_created_guid>
+                                                            <_changed_guid i:type="c:guid">4da8c4d8-9927-4510-ab2e-7e4a218fd47a</_changed_guid>
+                                                            <_left_Child i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Movimiento bloqueado: pared"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">1825</_y_location>
+          <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">0f3bdd5f-6b73-43ca-9378-011391c20936</_created_guid>
+          <_changed_guid i:type="c:guid">d1d779d2-27e6-4d89-80a0-788118c268f4</_changed_guid>
+        </_left_Child>
+        <_right_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">x:=nx</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1900</_y_location>
+            <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">y:=ny</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1975</_y_location>
+            <_Successor i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">aceptado:=1</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">2050</_y_location>
+            <_Successor i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Movimiento aceptado"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2125</_y_location>
+          <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">a992409d-d56f-42ca-8fae-914db065fc95</_created_guid>
+          <_changed_guid i:type="c:guid">a0592333-ccc3-4b75-b88f-9e0e19aab8ce</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">a8d08fe1-2265-480c-a620-3c1d3768c622</_created_guid>
+            <_changed_guid i:type="c:guid">056eea0e-7478-43ac-81b6-27cd03210924</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">9197a8a7-6cff-44b7-b064-c17c4fde0b46</_created_guid>
+            <_changed_guid i:type="c:guid">abd7d3fd-7728-45f0-9ebb-b84e772b7a99</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">b0dc3642-afee-4aff-85c9-8c9406637626</_created_guid>
+            <_changed_guid i:type="c:guid">03f12191-fe92-440b-906d-2bf2eb4b8ac7</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_right_Child>
+          <_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_left_Child>
+          <_right_Child i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Movimiento rechazado: fuera del laberinto"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2200</_y_location>
+          <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">3c370d27-76b9-434e-a28b-f60100a9c2ae</_created_guid>
+          <_changed_guid i:type="c:guid">0cf85d9a-0134-4d22-8f53-05b4b658cae3</_changed_guid>
+        </_right_Child>
+        <_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">22a53ab6-e565-438e-93e8-2cd22e0ff423</_created_guid>
+                                                            <_changed_guid i:type="c:guid">63f1931f-5919-4a3e-a4be-51b5ea3c9242</_changed_guid>
+                                                            <_left_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">nx:=x+1</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1600</_y_location>
+            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">1c4cf205-44f7-4e2c-9065-9602d36233ec</_created_guid>
+            <_changed_guid i:type="c:guid">d17b8e62-8b73-4e18-a105-df09bd609f60</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_left_Child>
+          <_right_Child i:nil="true"/><_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">fefee985-f92b-4da5-b67d-e6ca9ae68593</_created_guid>
+                                                            <_changed_guid i:type="c:guid">ec0e9b7c-08f3-408d-b934-68db669fd9ba</_changed_guid>
+                                                            <_left_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">nx:=x-1</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1450</_y_location>
+            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">7ffdb0c4-ce61-4b96-90d7-a0618ac3ce8a</_created_guid>
+            <_changed_guid i:type="c:guid">0213b41f-eb16-4633-a304-21a5567599a0</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_left_Child>
+          <_right_Child i:nil="true"/><_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">aa886e2a-cfe1-4472-9753-0cd95bf8424d</_created_guid>
+                                                            <_changed_guid i:type="c:guid">ef75fe19-301c-4257-9aa7-ced708f62072</_changed_guid>
+                                                            <_left_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">ny:=y+1</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1300</_y_location>
+            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">4d6d9131-e9db-4a8a-bee9-93eaddb5d551</_created_guid>
+            <_changed_guid i:type="c:guid">5eef4f8b-7ed5-4e71-9139-3dee1b61deab</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_left_Child>
+          <_right_Child i:nil="true"/><_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+                                                            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+                                                            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+                                                            <_full_text i:type="b:boolean">true</_full_text>
+                                                            <_height_of_text i:type="b:int">14</_height_of_text>
+                                                            <_char_length i:type="b:int">0</_char_length>
+                                                            <_comment i:nil="true"/>
+                                                            <_created_guid i:type="c:guid">43d6801d-3a29-47f6-913c-e87a31b78c3c</_created_guid>
+                                                            <_changed_guid i:type="c:guid">87d73d3d-d190-42b6-a78c-8aaa6a80aa77</_changed_guid>
+                                                            <_left_Child i:type="a:Rectangle"><_serialization_version i:type="b:int">17</_serialization_version>
+            <_FP i:type="a:Component.FootPrint">
+              <a:height>135</a:height>
+              <a:left>45</a:left>
+              <a:right>45</a:right>
+            </_FP>
+            <_text_str i:type="b:string">ny:=y-1</_text_str>
+            <_name i:type="b:string">Rectangle</_name>
+            <_proximity i:type="b:int">10</_proximity>
+            <_head_height i:type="b:int">60</_head_height>
+            <_head_width i:type="b:int">90</_head_width>
+            <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+            <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+            <_connector_length i:type="b:int">15</_connector_length>
+            <_x_location i:type="b:int">90</_x_location>
+            <_y_location i:type="b:int">1150</_y_location>
+            <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">b21f3ef4-de19-4705-a554-1b8e01a012cd</_created_guid>
+            <_changed_guid i:type="c:guid">001c58e6-9122-423b-b785-2ad534756b0a</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_left_Child>
+          <_right_Child i:nil="true"/><_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">5a7c859f-ca3f-450c-a526-066ca9cfca48</_created_guid>
+            <_changed_guid i:type="c:guid">2b74f50f-f0a9-41b7-9d73-49b80b494b5a</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">6001b1d4-e20a-4e84-81a7-bae32662192b</_created_guid>
+            <_changed_guid i:type="c:guid">898e55bb-c895-427b-841c-a5f1ff57a847</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_left_Child>
+          <_right_Child i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Error de formato: direccion invalida"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2275</_y_location>
+          <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">0d3d653d-1d2c-4839-bc14-b949701e0b09</_created_guid>
+          <_changed_guid i:type="c:guid">3ea8e07c-c671-4380-be04-1e181589180f</_changed_guid>
+        </_right_Child>
+        <_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">b763621d-8938-469f-ba42-0605dc0aa8c7</_created_guid>
+          <_changed_guid i:type="c:guid">0ed108b6-08bb-44e5-8836-16ee4bee98f3</_changed_guid>
+        </_left_Child>
+                                                            <_right_Child i:type="a:Parallelogram"><_prompt i:type="b:string"/>
+          <_is_input i:type="b:boolean">false</_is_input>
+          <_new_line i:type="b:boolean">true</_new_line>
+          <_input_expression i:type="b:boolean">false</_input_expression>
+          <_serialization_version i:type="b:int">17</_serialization_version>
+          <_FP i:type="a:Component.FootPrint">
+            <a:height>135</a:height>
+            <a:left>45</a:left>
+            <a:right>45</a:right>
+          </_FP>
+          <_text_str i:type="b:string">"Error de jugador: ID no conectado"</_text_str>
+          <_name i:type="b:string">Parallelogram</_name>
+          <_proximity i:type="b:int">10</_proximity>
+          <_head_height i:type="b:int">60</_head_height>
+          <_head_width i:type="b:int">90</_head_width>
+          <_head_heightOrig i:type="b:int">60</_head_heightOrig>
+          <_head_widthOrig i:type="b:int">90</_head_widthOrig>
+          <_connector_length i:type="b:int">15</_connector_length>
+          <_x_location i:type="b:int">90</_x_location>
+          <_y_location i:type="b:int">2350</_y_location>
+          <_Successor i:nil="true"/><_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">3850949d-607c-43e5-b37c-26ead02b8b85</_created_guid>
+          <_changed_guid i:type="c:guid">25f1a629-ef1c-4489-88e5-414e3b2caef1</_changed_guid>
+        </_right_Child>
+        <_bottom i:type="b:int">180</_bottom>
+                                                            <_min_bottom i:type="b:int">90</_min_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">fed9ada5-942d-450d-9dd2-b736bae818fc</_created_guid>
+          <_changed_guid i:type="c:guid">f0b21a29-a092-47cf-869c-293ee18f5b51</_changed_guid>
+        </_before_Child>
+                                                            <_after_Child i:nil="true"/><_bottom i:type="b:int">180</_bottom>
+                                                            <_min_before_bottom i:type="b:int">80</_min_before_bottom>
+                                                            <_before_bottom i:type="b:int">140</_before_bottom>
+                                                            <_after_bottom i:type="b:int">180</_after_bottom>
+                                                            <_x_left i:type="b:int">0</_x_left>
+                                                            <_y_left i:type="b:int">0</_y_left>
+                                                            <_x_right i:type="b:int">0</_x_right>
+                                                            <_y_right i:type="b:int">0</_y_right>
+                                                            <_left_connector_y i:type="b:int">0</_left_connector_y>
+                                                            <_right_connector_y i:type="b:int">0</_right_connector_y>
+                                                            <_line_height i:type="b:int">15</_line_height>
+                                                            <_LP i:type="b:string"/>
+                                                            </_Successor>
+            <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">c773fe81-5dad-4283-a066-77400cd7a6ee</_created_guid>
+            <_changed_guid i:type="c:guid">d78d8acf-3fd7-47ef-95fb-5f7f45226598</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">f4fc7a70-cdb7-44c3-afa9-585417e43674</_created_guid>
+            <_changed_guid i:type="c:guid">2a25d2d0-64a1-41d4-9eeb-91d9bd1b47a5</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+            <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+            <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+            <_full_text i:type="b:boolean">true</_full_text>
+            <_height_of_text i:type="b:int">14</_height_of_text>
+            <_char_length i:type="b:int">0</_char_length>
+            <_comment i:nil="true"/>
+            <_created_guid i:type="c:guid">f6f7dd9a-7648-4f3b-9179-9790f691b8ca</_created_guid>
+            <_changed_guid i:type="c:guid">20358661-1ff5-43d8-a88b-833cadac1ef0</_changed_guid>
+            <_kind i:type="a:Rectangle.Kind_Of">Assignment</_kind>
+          </_Successor>
+          <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">2e7f7ce8-e353-46ee-b868-bf157a9617d4</_created_guid>
+          <_changed_guid i:type="c:guid">e15dbe5c-ce3d-474e-8fd8-8b5c49da1786</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+          <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+          <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+          <_full_text i:type="b:boolean">true</_full_text>
+          <_height_of_text i:type="b:int">14</_height_of_text>
+          <_char_length i:type="b:int">0</_char_length>
+          <_comment i:nil="true"/>
+          <_created_guid i:type="c:guid">d69b0454-cc64-4317-bb8f-9540474de05d</_created_guid>
+          <_changed_guid i:type="c:guid">4d1872b5-eaff-461a-be81-187a29a6af32</_changed_guid>
+        </_Successor>
+        <_is_child i:type="b:boolean">false</_is_child>
+        <_is_beforeChild i:type="b:boolean">false</_is_beforeChild>
+        <_is_afterChild i:type="b:boolean">false</_is_afterChild>
+        <_full_text i:type="b:boolean">true</_full_text>
+        <_height_of_text i:type="b:int">14</_height_of_text>
+        <_char_length i:type="b:int">0</_char_length>
+        <_comment i:nil="true"/>
+        <_created_guid i:type="c:guid">3c08e47a-f14b-40e3-b287-cc65fae78034</_created_guid>
+        <_changed_guid i:type="c:guid">d6219ca6-0fec-4c88-a19c-36c245ffceac</_changed_guid>
+      </a:Start>
+      <a:Text>main</a:Text>
+      <a:kind>Subchart</a:kind>
+    </a:Subchart>
+  </subcharts>
+</MainWindowViewModel.Raptor_File>
