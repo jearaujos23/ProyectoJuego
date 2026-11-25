@@ -70,4 +70,4 @@ Este proyecto se publica bajo la licencia **MIT** (archivo `LICENSE`).
 - **Código de terceros:** ninguno. Solo se usa la biblioteca estándar de Python.
 - **Librerías:** no hay librerías externas en esta fase.
 - **Recursos visuales:** ninguno en esta fase.
-- **Herramientas de IA:** se usó **Claude (Anthropic)** para traducir los diagramas DF1, DF2 y DF3 a Python, redactar este README y preparar el archivo de licencia. El equipo revisó el código contra los diagramas de la Fase 2 y lo probó con las jugadas de la tabla «Pruebas rápidas».
+- **Herramientas de IA:** se usó **Claude  para traducir los diagramas DF1, DF2 y DF3 a Python, redactar el README y preparar el archivo de licencia. El equipo revisó el código contra los diagramas de la Fase 2 y lo probó con las jugadas de la tabla «Pruebas rápidas».
