@@ -4,7 +4,7 @@ Proyecto integrador de **Lógica de Programación** · UIDE · Fase 3: Entorno d
 
 - **Docente:** Harry Carpio
 - **Paralelo:** C
-- **Integrantes:** Joshua Garzón, Eduardo Araujo, Martín Montaño, Edgar Pilco
+- **Integrantes:** Joshua Garzón, Eduardo Araujo.
 
 ## El juego
 
