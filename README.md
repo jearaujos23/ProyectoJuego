@@ -57,8 +57,7 @@ python game_logic.py
 | DF3 · Fin de ronda, rotación y ganador (RF-07 a RF-11) | `game_logic.py`, líneas 85–171 | Los `GET` pasaron a `input()` con validación de rangos. Los `PUT` que mostraban el número en otra línea (ronda, jugador, ganador, total) siguen igual. Se mantienen las variables sueltas `p1` a `p5`, sin listas, como en el diagrama. |
 
 ## Video explicativo
-
-[Pegar aquí el enlace del video]
+https://1drv.ms/v/c/bd781ab2418f6cef/IQCPq1-J4dbsSJZ0Fm98Dai3AQ_i-EKKW0DYUQC2NhTsqBU?e=LO2ODz 
 
 ## Licencia
 
